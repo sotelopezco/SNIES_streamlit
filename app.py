@@ -129,15 +129,4 @@ if archivo is not None:
                 mime="text/csv"
             )
 
-#Al ser árbol o bosque no se requiere escalamiento
-#data_preparada = data.copy()
-
-"""## **Predicciones**"""
-
-#y_pred = modelo_recuperado.predict(data_preparada)
-#print(y_pred)
-
-#Predicciones finales
-#data
-
 st.warning("El modelo tiene un error de % (F1-score)")
