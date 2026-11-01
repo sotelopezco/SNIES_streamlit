@@ -49,7 +49,7 @@ import pickle
 #datos = [[Edad, videojuego,Plataforma,Sexo,Consumidor_habitual]]
 #data = pd.DataFrame(datos, columns=['Edad', 'videojuego','Plataforma','Sexo','Consumidor_habitual']) #Dataframe con los mismos nombres de variables
 
-!pip install -q streamlit
+
 import streamlit as st
 
 # Configuración de la página
