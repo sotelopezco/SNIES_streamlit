@@ -1,5 +1,7 @@
 streamlit
-scikit-learn == 1.6.1
 pandas
-numPy
+numpy
 matplotlib
+scipy
+statsmodels
+plotly
